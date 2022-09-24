@@ -20,3 +20,4 @@ Function get-time
  Start-Process calc.exe
  Get-Process | Get-Member 
  Get-Date
+ Get-Date
