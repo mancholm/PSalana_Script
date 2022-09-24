@@ -24,4 +24,5 @@ Function get-time
  Start-Process notepad.exe
  Start-Process calc.exe
  Start-Process notepad.exe
- 
+ Start-Process calc.exe
+ $PSVersionTable
