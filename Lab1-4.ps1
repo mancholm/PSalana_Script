@@ -22,3 +22,4 @@ Function get-time
  Get-Date
  Get-Date
  Start-Process notepad.exe
+ get-time
