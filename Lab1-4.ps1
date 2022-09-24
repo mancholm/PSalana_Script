@@ -21,3 +21,4 @@ Function get-time
  Get-Process | Get-Member 
  Get-Date
  Get-Date
+ Start-Process notepad.exe
