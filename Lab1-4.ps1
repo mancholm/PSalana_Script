@@ -25,3 +25,4 @@ Function get-time
  Start-Process calc.exe
  Start-Process notepad.exe
 
+Get-Alias
