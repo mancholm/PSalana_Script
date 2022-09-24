@@ -24,5 +24,9 @@ Function get-time
  Start-Process notepad.exe
  Start-Process calc.exe
  Start-Process notepad.exe
+<<<<<<< HEAD
 
 Get-Alias
+=======
+Get-Date
+>>>>>>> 3d168de568533ac03cbc977122dc99c0cb8de6ff
