@@ -26,5 +26,9 @@ Function get-time
  Start-Process notepad.exe
  Start-Process calc.exe
  Write-Host “Hello all my World!” 
+<<<<<<< HEAD
  Write-Host “Hello my Life!” 
  Write-Host “Hello Vida!” 
+=======
+
+>>>>>>> 4c99f9e439a07ae1fae92efec03780d452e436ff
