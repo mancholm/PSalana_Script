@@ -29,4 +29,3 @@ Function get-time
  Write-Host “Hello my Life!” 
  Write-Host “Hello Vida!” 
  Write-Host “Como estas amor?”
- Write-Host “Espero que bien?”
